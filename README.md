@@ -31,8 +31,11 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![EMP5](https://github.com/Jayamani25/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/85949888/178a1061-2579-48bd-bb3f-2b967ad239f7)
+
+
+### Name: MOHAMED AZEEM N
+### Register Number: 212222110026
 
 ## Result: 
 ### Thus the simulation on construction of delta 3D printer is completed & movement of axis along X, Y, & Z has been studied.
